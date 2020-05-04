@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "epoll.h": "c",
+        "assert.h": "c",
+        "port_forward.h": "c",
+        "connect_setup.h": "c"
+    }
+}
